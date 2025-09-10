@@ -27,7 +27,8 @@ Estrutura do Código
 
 5. Loop principal: Verifica continuamente se uma música ainda está sendo reproduzida
 
-Observações
+Observações:
+
 Os caminhos dos arquivos usam raw strings (prefixo r) para evitar problemas com caracteres especiais
 
 O script espera o término de cada música antes de passar para a próxima
