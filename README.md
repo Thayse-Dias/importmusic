@@ -4,13 +4,14 @@ Este projeto é um simples player de música em Python que utiliza a biblioteca 
 
 Funcionalidades
 
-Reprodução de músicas em sequência a partir de uma playlist predefinida
+- Reprodução de músicas em sequência a partir de uma playlist predefinida
 
-Exibição no console da música atual sendo reproduzida
+- Exibição no console da música atual sendo reproduzida
 
-Reprodução automática da próxima música ao término da atual
+- Reprodução automática da próxima música ao término da atual
 
 Requisitos
+
 Python 3.x
 Biblioteca Pygame
 
