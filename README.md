@@ -12,8 +12,8 @@ Funcionalidades
 
 Requisitos
 
-Python 3.x
-Biblioteca Pygame
+- Python 3.x
+- Biblioteca Pygame
 
 Estrutura do Código
 
